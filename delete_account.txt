@@ -1,0 +1,5 @@
+To delete your account of Cricket Duels : 
+
+1) Go to the settings menu inside the home screen of the app ( press the gear icon )
+
+2) Click the "Delete Account" button.
